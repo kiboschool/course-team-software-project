@@ -14,7 +14,13 @@ $ tree .
 ├── theme/
 └── src
     ├── SUMMARY.md
-    └── chapter_1.md
+    ├── course-overview.md
+    ├── assessments.md
+    ├── live-classes.md
+    └── lessons/
+        ├── week-1.md
+        └── week-1/
+            └── example.md
 ```
 
 ### README.md
@@ -53,6 +59,16 @@ site.
 
 ### src/*
 
+Pages at the top level of the source folder are for overview information about the course. The template includes:
+
+- Course Overview - `course-overview.md`
+- Assessments - `assessments.md`
+- Live Classes - `live-classes.md`
+
+But courses will typically adjust these course information pages to fit their needs.
+
+### src/lessons/
+
 These are the pages that actually make up the course. It's nice to put things in folders to organize the different pages. Each week can get a 'cover page' and a page per lesson, in a folder with that name, like
 
 ```
@@ -64,7 +80,7 @@ working-with-data/
     input-and-output.md
 ```
 
-etc.
+`lessons/week-1.md` and `lessons/week-1/example.md` illustrate what typical week and lesson pages include.
 
 ### output
 
@@ -98,7 +114,7 @@ Or download a [release from Github](https://github.com/rust-lang/mdBook/releases
 
 Or if you use rust: `cargo install mdbook`
 
-### Run the book locally
+### Run the site locally
 
 ```
 mdbook serve --open
