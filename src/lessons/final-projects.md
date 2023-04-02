@@ -46,4 +46,4 @@ Peer ratings will factor into your course grade. Teammates that do not contribut
 
 ## Submission
 
-You'll submit your project files, demo recording, and written reflection in Gradescope and Woolf.
+One team member should submit the project files and demo recording in Gradescope. Every team member must submit their own Personal Reflection. Every team member should submit all the materials in Woolf.

@@ -14,4 +14,4 @@ As you watch the other demos, you will share feedback on what your peers have cr
 
 Upload a video of your MVP Demo presentation. You can either record the presentation you give to the class, or you can make a separate recording of your demo.
 
-Submit your video in Gradescope and Woolf.
+One teammate should submit the demo video in Gradescope for the team. Every teammate must submit the demo video separately in Woolf.
