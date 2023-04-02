@@ -15,12 +15,12 @@ You'll use Github to collaborate on your project with your team, and you may use
 
 Each team will submit their final project on Gradescope and Woolf. 
 
-It will be scored using this rubric:
+It will be scored based on:
 
-- fit to the problem statement
-- functionality
-- features
-- quality
+- Fit to the problem statement
+- Functionality
+- Features
+- Quality
 
 ## Presentation
 
