@@ -4,7 +4,7 @@
 
 ## Welcome to Team Software Project
 
-<!-- TODO: insert welcome video -->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin-top:1.6em"><iframe src="https://www.youtube.com/embed/FVEFR98tQlI;rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Course Description
 
@@ -46,15 +46,15 @@ This course will not have conventional live classes. Instead, meetings will cons
 
 Here are the dates for the workshops and events:
 
-| **Date** | **Event** | **Workshop** |
-|---|---|---|
-| April 11 | Course Kickoff |  |
-| April 18 |  | MVP Planning and Git in Teams Part 1 |
-| April 25 |  | Git in Teams Part 2 |
-| May 2 |  | Code Review and Feedback |
-| May 9 | MVP Demos |  |
-| May 16 |  | Managing Conflict |
-| June 6 and June 13 | Final Project Demos |  |
+| **Date**           | **Event**           | **Workshop**                         |
+| ------------------ | ------------------- | ------------------------------------ |
+| April 11           | Course Kickoff      |                                      |
+| April 18           |                     | MVP Planning and Git in Teams Part 1 |
+| April 25           |                     | Git in Teams Part 2                  |
+| May 2              |                     | Code Review and Feedback             |
+| May 9              | MVP Demos           |                                      |
+| May 16             |                     | Managing Conflict                    |
+| June 6 and June 13 | Final Project Demos |                                      |
 
 ## Instructor
 
@@ -67,9 +67,9 @@ Please contact on Discord first with questions about the course.
 ## Topics
 
 - Project Scoping and Planning
-- Team Git workflow 
+- Team Git workflow
 - Code review
 - Software Development
 - Deployment
 - Project Management
-- Presentation 
+- Presentation
