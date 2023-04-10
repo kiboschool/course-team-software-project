@@ -12,4 +12,4 @@ There are **6 sprint reports** to submit.
 
 ## Submission
 
-One person from your team should submit the weekly sprint report in Gradescope. _Every team member_ should submit a screenshot your answers in Woolf.
+One person from your team should submit the weekly sprint report in Gradescope. _Every team member_ should submit the document in Woolf.

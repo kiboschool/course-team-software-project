@@ -16,21 +16,11 @@ Summary: Forming behaviours
 7. Sizing each other up
 8. Focus is on the individuals
 
-## Activity: Team Icebreaker
-
-TODO: Design Icebreaker activity
-
 ## Video: Forming to Storming
 
 > Watch this video to learn how to move through the forming stage.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; margin-top:1.6em"><iframe src="https://www.youtube.com/embed/r581bpyWoVI;rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-TODO: Create padlet
-
-What do you like most about working in teams?
-
-What do you like least about working in teams?
 
 # Virtual Teams
 
@@ -60,6 +50,4 @@ A Team Charter does the following:
 - Determine roles and responsibilities for team members that leverage individual strengths and skills
 - Document a conflict resolution process
 
-Tool: Team Charter Template (TODO: Turn in Google Doc)
- 
-[Team Charter Template.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/219894b4-c92b-4ffa-abff-81c53df60bbd/Team_Charter_Template.pdf)
+See how to create your Team Charter on the next page.
