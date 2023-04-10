@@ -21,7 +21,7 @@ The Sprint Lead should add and assign the tasks to your project management tool 
 
 At the end of the week, the Sprint Lead should ask the team for what tasks they completed during the week, and submit the Weekly Sprint Report.
 
-- Make a copy of the [Sprint Report Template]()
+- Make a copy of the [Sprint Report Template](https://docs.google.com/document/d/1y7B-R-jpbnANhQdT21f1GDybrMHxsDhd4PIpJMAIva8/copy)
 - Fill out the sections of the template
 - Link to the work for each task (e.g. a Git commit or a design file)
 - Submit the group assignment in Gradescope. _Every teammate should submit a copy in Woolf_.
@@ -30,7 +30,7 @@ At the end of the week, the Sprint Lead should ask the team for what tasks they 
 
 Each week, every team member will fill out an individual reflection.
 
-- Make a copy of the [Individual Reflection template]()
+- Make a copy of the [Individual Reflection template](https://docs.google.com/document/d/13Db7fgKGAO3Ncd3qwVudwYINA139fVb2S1B4RqNRWuw/copy)
 - Fill out the reflection questions about the week.
 - Fill out the peer rating section.
 - Each teammate should submit their own reflection in Gradescope and Woolf.
