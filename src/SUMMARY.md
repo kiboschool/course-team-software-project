@@ -10,20 +10,19 @@
 ## Learning Modules
 
 - [Collaboration](lessons/collaboration.md)
-    - [Forming](lessons/collaboration/forming.md)
-    - [Team Charter](lessons/collaboration/team-charter.md)
-    - [Weekly Sprint](lessons/collaboration/sprint.md)
-<!--
-    - [Storming](lessons/collaboration/storming.md)
-    - [Norming](lessons/collaboration/norming.md)
-    - [Performing](lessons/collaboration/performing.md)
-    - [Conflict](lessons/collaboration/conflict.md)
-    - [Feedback](lessons/collaboration/feedback.md)
-    - [Bonus: Emotional Intelligence](lessons/collaboration/eq.md)
 
-- [Workshops](lessons/workshops.md)
-    - [Git](lessons/workshops/git.md)
-    - [Branching and Merging](lessons/workshops/branching-and-merging.md)
-    - [Code Review](lessons/workshops/code-review.md)
-    - [How to Demo a Project](lessons/workshops/demos.md)
--->
+  - [Forming](lessons/collaboration/forming.md)
+  - [Team Charter](lessons/collaboration/team-charter.md)
+  - [Weekly Sprint](lessons/collaboration/sprint.md)
+  - [Due This Week](lessons/collaboration/due-this-week.md)
+
+<!--
+      - [Storming](lessons/collaboration/storming.md)
+      - [Norming](lessons/collaboration/norming.md)
+      - [Performing](lessons/collaboration/performing.md)
+      - [Conflict](lessons/collaboration/conflict.md)
+      - [Feedback](lessons/collaboration/feedback.md)
+      - [Bonus: Emotional Intelligence](lessons/collaboration/eq.md)
+
+- [Workshops](lessons/workshops.md) - [Git](lessons/workshops/git.md) - [Branching and Merging](lessons/workshops/branching-and-merging.md) - [Code Review](lessons/workshops/code-review.md) - [How to Demo a Project](lessons/workshops/demos.md)
+  -->
