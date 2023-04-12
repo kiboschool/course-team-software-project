@@ -8,7 +8,9 @@ If you plan to, <a href="https://team-software-project.vercel.app/lessons/projec
 
 Once you have selected a project, submit your project selection and team members by filling out the form below.
 
-[Form link to be added soon]
+<h2>
+<a href="https://forms.gle/AKHhB5zmcLnDqyvP9"> Submit Project Selection </a>
+</h2>
 
 ## 3. Schedule your team's first meeting
 
