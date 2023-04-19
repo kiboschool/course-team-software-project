@@ -8,10 +8,6 @@
 [MVP Demos](lessons/mvp-demos.md)
 [Final Projects](lessons/final-projects.md)
 
-## Learning Modules
-
-:redirect: hidden-pages.html
-
 <!--
 - [Workshops](lessons/workshops.md)
 
@@ -27,6 +23,13 @@
   - [Team Charter](lessons/collaboration/team-charter.md)
   - [Weekly Sprint](lessons/collaboration/sprint.md)
   - [Due This Week](lessons/collaboration/due-this-week.md)
+
+- [Source Version Control](lessons/source-version-control.md)
+
+  - [Git](lessons/source-version-control/git.md)
+  - [Git Essentials](lessons/source-version-control/git-essentials.md)
+  - [Resolving Conflicts](lessons/source-version-control/resolving-conflicts.md)
+  - [Due This Week](lessons/source-version-control/due-this-week.md)
 
   <!--
         - [Storming](lessons/collaboration/storming.md)
