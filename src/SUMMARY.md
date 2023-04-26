@@ -31,12 +31,18 @@
   - [Resolving Conflicts](lessons/source-version-control/resolving-conflicts.md)
   - [Due This Week](lessons/source-version-control/due-this-week.md)
 
+- [Notes on Development & Git Branching](lessons/notes-on-development-and-git-branching.md)
+
+  - [Starting the development process](lessons/notes-on-development-and-git-branching/starting-the-development-process.md)
+  - [Git Branching](lessons/notes-on-development-and-git-branching/git-branching.md)
+  - [Due This Week](lessons/notes-on-development-and-git-branching/due-this-week.md)
+
   <!--
-        - [Storming](lessons/collaboration/storming.md)
-        - [Norming](lessons/collaboration/norming.md)
-        - [Performing](lessons/collaboration/performing.md)
-        - [Conflict](lessons/collaboration/conflict.md)
-        - [Feedback](lessons/collaboration/feedback.md)
-        - [Bonus: Emotional Intelligence](lessons/collaboration/eq.md)
+          - [Storming](lessons/collaboration/storming.md)
+          - [Norming](lessons/collaboration/norming.md)
+          - [Performing](lessons/collaboration/performing.md)
+          - [Conflict](lessons/collaboration/conflict.md)
+          - [Feedback](lessons/collaboration/feedback.md)
+          - [Bonus: Emotional Intelligence](lessons/collaboration/eq.md)
 
   -->
