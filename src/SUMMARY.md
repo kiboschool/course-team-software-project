@@ -37,6 +37,14 @@
   - [Git Branching](lessons/notes-on-development-and-git-branching/git-branching.md)
   - [Due This Week](lessons/notes-on-development-and-git-branching/due-this-week.md)
 
+- [Code Review and Feedback](lessons/code-review.md)
+
+  - [Benifits of Code Reviews](lessons/code-review/benifits-of-code-review.md)
+  - [Code Reviews Best Practices](lessons/code-review/code-reviews-best-practices.md)
+  - [Review Process and Feedback](lessons/code-review/review-process-and-feedback.md)
+  - [Conducting Code Reviews](lessons/code-review/conducting-code-reviews.md)
+  - [Due This Week](lessons/code-review/due-this-week.md)
+
   <!--
           - [Storming](lessons/collaboration/storming.md)
           - [Norming](lessons/collaboration/norming.md)
