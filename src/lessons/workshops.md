@@ -11,7 +11,7 @@ The next few pages will have notes for each of the workshops.
 | April 11           | Course Kickoff                       | [Slides][kickoff-slides] - [Video][kickoff-video]     |
 | April 18           | MVP Planning and Git in Teams Part 1 | [Slides][workshop2-slides] - [Video][workshop2-video] |
 | April 25           | Git in Teams Part 2                  | [Slides][workshop3-slides] - [Video][workshop3-video] |
-| May 2              | Code Review and Feedback             |                                                       |
+| May 2              | Code Review and Feedback             | [Slides][workshop4-slides] - [Video][workshop4-video] |
 | May 9              | MVP Demos                            |                                                       |
 | May 16             | Managing Conflict                    |                                                       |
 | June 6 and June 13 | Final Project Demos                  |                                                       |
@@ -22,3 +22,5 @@ The next few pages will have notes for each of the workshops.
 [workshop2-slides]: https://docs.google.com/presentation/d/1m1cXO1w6JfGnw0pmQLzIdiR69ZbP7SZ_3KyeKSiKn4A/edit?usp=sharing
 [workshop3-video]: https://youtu.be/3gbQdOL7aXQ
 [workshop3-slides]: https://docs.google.com/presentation/d/1WadmynzMetlFXEraeHs_3LXcEuduSuu7gO5n4Xm0rhc/edit?usp=sharing
+[workshop4-video]: https://youtu.be/lI5S_czKlVQ
+[workshop4-slides]: https://docs.google.com/presentation/d/1OX4Dax7syak3WE9oDIpAV3D7YVasTcaT2hcUuHaE-aA/edit?usp=sharing
