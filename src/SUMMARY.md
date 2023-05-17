@@ -45,6 +45,10 @@
   - [Conducting Code Reviews](lessons/code-review/conducting-code-reviews.md)
   - [Due This Week](lessons/code-review/due-this-week.md)
 
+- [MVP Demo Week](lessons/mvp-demo-week.md)
+
+- [Conflict Management](lessons/collaboration/conflict.md)
+
   <!--
           - [Storming](lessons/collaboration/storming.md)
           - [Norming](lessons/collaboration/norming.md)
