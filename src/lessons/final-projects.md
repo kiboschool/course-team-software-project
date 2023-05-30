@@ -21,9 +21,9 @@ Peer feedback is a valuable tool for growth and improvement. We sugegst that you
 
 Your final project grading is as follows:
 
-- Project (Functionality, features, and quality): 40%
-- Presentation: 10%
-- Reflection: 10%
+- Project: 20%
+- Presentation: 20%
+- Reflection: 20%
 
 ## Project
 
