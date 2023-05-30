@@ -48,6 +48,10 @@
 - [MVP Demo Week](lessons/mvp-demo-week.md)
 
 - [Conflict Management](lessons/collaboration/conflict.md)
+- [Week 7](lessons/week-7.md)
+- [Week 8](lessons/week-8.md)
+- [Week 9](lessons/week-9.md)
+- [Week 10](lessons/week-10.md)
 
   <!--
           - [Storming](lessons/collaboration/storming.md)
