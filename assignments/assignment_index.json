@@ -1,0 +1,503 @@
+{
+  "name": "Team Software Project",
+  "id": "687045",
+  "code": "CS209",
+  "assignments": [
+    {
+      "id": "3833832",
+      "name": "Week 1 Team Charter",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833832",
+      "filename": "week_1_team_charter.pdf"
+    },
+    {
+      "id": "3833903",
+      "name": "Week 10 Final Project Demonstration",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833903",
+      "filename": "week_10_final_project_demonstration.pdf"
+    },
+    {
+      "id": "3827111",
+      "name": "Week 10 Final Project Implementation",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827111",
+      "filename": "week_10_final_project_implementation.pdf"
+    },
+    {
+      "id": "3827110",
+      "name": "Week 10 Final Project Presentation",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827110",
+      "filename": "week_10_final_project_presentation.pdf"
+    },
+    {
+      "id": "3827109",
+      "name": "Week 10 Final Project Reflection",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827109",
+      "filename": "week_10_final_project_reflection.pdf"
+    },
+    {
+      "id": "3827119",
+      "name": "Week 2 Personal Reflection",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827119",
+      "filename": "week_2_personal_reflection.pdf"
+    },
+    {
+      "id": "3833856",
+      "name": "Week 3 Sprint Report",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833856",
+      "filename": "week_3_sprint_report.pdf"
+    },
+    {
+      "id": "3827117",
+      "name": "Week 4 Personal Reflection",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827117",
+      "filename": "week_4_personal_reflection.pdf"
+    },
+    {
+      "id": "3827114",
+      "name": "Week 5 MVP Demo",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827114",
+      "filename": "week_5_mvp_demo.pdf"
+    },
+    {
+      "id": "3833900",
+      "name": "Week 5 Sprint Report",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833900",
+      "filename": "week_5_sprint_report.pdf"
+    },
+    {
+      "id": "3827124",
+      "name": "Week 6 Personal Reflection",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827124",
+      "filename": "week_6_personal_reflection.pdf"
+    },
+    {
+      "id": "3833901",
+      "name": "Week 7 Sprint Report",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833901",
+      "filename": "week_7_sprint_report.pdf"
+    },
+    {
+      "id": "3827122",
+      "name": "Week 8 Personal Reflection",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827122",
+      "filename": "week_8_personal_reflection.pdf"
+    },
+    {
+      "id": "3833902",
+      "name": "Week 9 Sprint Report",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833902",
+      "filename": "week_9_sprint_report.pdf"
+    },
+    {
+      "id": "2789694",
+      "name": "Final Project",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789694",
+      "filename": "final_project.pdf"
+    },
+    {
+      "id": "2790513",
+      "name": "Final Project Presentation",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2790513",
+      "filename": "final_project_presentation.pdf"
+    },
+    {
+      "id": "2789271",
+      "name": "Final Project Reflection",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789271",
+      "filename": "final_project_reflection.pdf"
+    },
+    {
+      "id": "2789689",
+      "name": "MVP Demo",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789689",
+      "filename": "mvp_demo.pdf"
+    },
+    {
+      "id": "2786923",
+      "name": "Personal Reflection 1",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2786923",
+      "filename": "personal_reflection_1.pdf"
+    },
+    {
+      "id": "2789712",
+      "name": "Personal Reflection 2",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789712",
+      "filename": "personal_reflection_2.pdf"
+    },
+    {
+      "id": "2789713",
+      "name": "Personal Reflection 3",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789713",
+      "filename": "personal_reflection_3.pdf"
+    },
+    {
+      "id": "2789714",
+      "name": "Personal Reflection 4",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789714",
+      "filename": "personal_reflection_4.pdf"
+    },
+    {
+      "id": "2789715",
+      "name": "Personal Reflection 5",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789715",
+      "filename": "personal_reflection_5.pdf"
+    },
+    {
+      "id": "2789716",
+      "name": "Personal Reflection 6",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789716",
+      "filename": "personal_reflection_6.pdf"
+    },
+    {
+      "id": "2789717",
+      "name": "Personal Reflection 7",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789717",
+      "filename": "personal_reflection_7.pdf"
+    },
+    {
+      "id": "2789254",
+      "name": "Weekly Sprint Report 1",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789254",
+      "filename": "weekly_sprint_report_1.pdf"
+    },
+    {
+      "id": "2789719",
+      "name": "Weekly Sprint Report 2",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789719",
+      "filename": "weekly_sprint_report_2.pdf"
+    },
+    {
+      "id": "2789720",
+      "name": "Weekly Sprint Report 3",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789720",
+      "filename": "weekly_sprint_report_3.pdf"
+    },
+    {
+      "id": "2789721",
+      "name": "Weekly Sprint Report 4",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789721",
+      "filename": "weekly_sprint_report_4.pdf"
+    },
+    {
+      "id": "2789722",
+      "name": "Weekly Sprint Report 5",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789722",
+      "filename": "weekly_sprint_report_5.pdf"
+    },
+    {
+      "id": "2789723",
+      "name": "Weekly Sprint Report 6",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789723",
+      "filename": "weekly_sprint_report_6.pdf"
+    },
+    {
+      "id": "3833832",
+      "name": "Week 1 Team Charter",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833832",
+      "filename": "week_1_team_charter.pdf"
+    },
+    {
+      "id": "3833903",
+      "name": "Week 10 Final Project Demonstration",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833903",
+      "filename": "week_10_final_project_demonstration.pdf"
+    },
+    {
+      "id": "3827111",
+      "name": "Week 10 Final Project Implementation",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827111",
+      "filename": "week_10_final_project_implementation.pdf"
+    },
+    {
+      "id": "3827110",
+      "name": "Week 10 Final Project Presentation",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827110",
+      "filename": "week_10_final_project_presentation.pdf"
+    },
+    {
+      "id": "3827109",
+      "name": "Week 10 Final Project Reflection",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827109",
+      "filename": "week_10_final_project_reflection.pdf"
+    },
+    {
+      "id": "3827119",
+      "name": "Week 2 Personal Reflection",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827119",
+      "filename": "week_2_personal_reflection.pdf"
+    },
+    {
+      "id": "3833856",
+      "name": "Week 3 Sprint Report",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833856",
+      "filename": "week_3_sprint_report.pdf"
+    },
+    {
+      "id": "3827117",
+      "name": "Week 4 Personal Reflection",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827117",
+      "filename": "week_4_personal_reflection.pdf"
+    },
+    {
+      "id": "3827114",
+      "name": "Week 5 MVP Demo",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827114",
+      "filename": "week_5_mvp_demo.pdf"
+    },
+    {
+      "id": "3833900",
+      "name": "Week 5 Sprint Report",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833900",
+      "filename": "week_5_sprint_report.pdf"
+    },
+    {
+      "id": "3827124",
+      "name": "Week 6 Personal Reflection",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827124",
+      "filename": "week_6_personal_reflection.pdf"
+    },
+    {
+      "id": "3833901",
+      "name": "Week 7 Sprint Report",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833901",
+      "filename": "week_7_sprint_report.pdf"
+    },
+    {
+      "id": "3827122",
+      "name": "Week 8 Personal Reflection",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3827122",
+      "filename": "week_8_personal_reflection.pdf"
+    },
+    {
+      "id": "3833902",
+      "name": "Week 9 Sprint Report",
+      "course_id": "687045",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/687045/assignments/3833902",
+      "filename": "week_9_sprint_report.pdf"
+    },
+    {
+      "id": "2789694",
+      "name": "Final Project",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789694",
+      "filename": "final_project.pdf"
+    },
+    {
+      "id": "2790513",
+      "name": "Final Project Presentation",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2790513",
+      "filename": "final_project_presentation.pdf"
+    },
+    {
+      "id": "2789271",
+      "name": "Final Project Reflection",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789271",
+      "filename": "final_project_reflection.pdf"
+    },
+    {
+      "id": "2789689",
+      "name": "MVP Demo",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789689",
+      "filename": "mvp_demo.pdf"
+    },
+    {
+      "id": "2786923",
+      "name": "Personal Reflection 1",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2786923",
+      "filename": "personal_reflection_1.pdf"
+    },
+    {
+      "id": "2789712",
+      "name": "Personal Reflection 2",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789712",
+      "filename": "personal_reflection_2.pdf"
+    },
+    {
+      "id": "2789713",
+      "name": "Personal Reflection 3",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789713",
+      "filename": "personal_reflection_3.pdf"
+    },
+    {
+      "id": "2789714",
+      "name": "Personal Reflection 4",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789714",
+      "filename": "personal_reflection_4.pdf"
+    },
+    {
+      "id": "2789715",
+      "name": "Personal Reflection 5",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789715",
+      "filename": "personal_reflection_5.pdf"
+    },
+    {
+      "id": "2789716",
+      "name": "Personal Reflection 6",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789716",
+      "filename": "personal_reflection_6.pdf"
+    },
+    {
+      "id": "2789717",
+      "name": "Personal Reflection 7",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789717",
+      "filename": "personal_reflection_7.pdf"
+    },
+    {
+      "id": "2789254",
+      "name": "Weekly Sprint Report 1",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789254",
+      "filename": "weekly_sprint_report_1.pdf"
+    },
+    {
+      "id": "2789719",
+      "name": "Weekly Sprint Report 2",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789719",
+      "filename": "weekly_sprint_report_2.pdf"
+    },
+    {
+      "id": "2789720",
+      "name": "Weekly Sprint Report 3",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789720",
+      "filename": "weekly_sprint_report_3.pdf"
+    },
+    {
+      "id": "2789721",
+      "name": "Weekly Sprint Report 4",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789721",
+      "filename": "weekly_sprint_report_4.pdf"
+    },
+    {
+      "id": "2789722",
+      "name": "Weekly Sprint Report 5",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789722",
+      "filename": "weekly_sprint_report_5.pdf"
+    },
+    {
+      "id": "2789723",
+      "name": "Weekly Sprint Report 6",
+      "course_id": "527581",
+      "course_code": "CS209",
+      "href": "https://gradescope.com/courses/527581/assignments/2789723",
+      "filename": "weekly_sprint_report_6.pdf"
+    }
+  ]
+}
